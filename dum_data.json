@@ -27,7 +27,7 @@
     },
     "ads": {
         "adNetwork": "admob",
-        "frequency": 3,
+        "frequency": 1,
         "ids": {
             "appId": "ca-app-pub-3940256099942544~3347511713",
             "banner": "ca-app-pub-3940256099942544/6300978111",
