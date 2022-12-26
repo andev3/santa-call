@@ -19,7 +19,7 @@
     ],
     "config": {
         "currentAppVersion": "1.0.0",
-        "forceUpdate": false,
+        "forceUpdate": true,
         "title": "update available",
         "body": "Version var available 🎉, download now and get latest features.",
         "updateLink": "https://www.google.com",
@@ -27,7 +27,7 @@
     },
     "ads": {
         "adNetwork": "admob",
-        "frequency": 1,
+        "frequency": 2,
         "ids": {
             "appId": "ca-app-pub-3940256099942544~3347511713",
             "banner": "ca-app-pub-3940256099942544/6300978111",
