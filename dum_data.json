@@ -18,7 +18,7 @@
         "Plz rate this application ⭐⭐⭐⭐⭐, and leave a comment ✍️?"
     ],
     "config": {
-        "currentAppVersion": "3.0.1",
+        "currentAppVersion": "3.0.2",
         "forceUpdate": true,
         "title": "update available",
         "body": "Version var available 🎉, download now and get latest features.",
