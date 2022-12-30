@@ -18,7 +18,7 @@
         "Plz rate this application ⭐⭐⭐⭐⭐, and leave a comment ✍️?"
     ],
     "config": {
-        "currentAppVersion": "1.0.0",
+        "currentAppVersion": "3.0.1",
         "forceUpdate": true,
         "title": "update available",
         "body": "Version var available 🎉, download now and get latest features.",
@@ -27,7 +27,7 @@
     },
     "ads": {
         "adNetwork": "admob",
-        "frequency": 5,
+        "frequency": 3,
         "ids": {
             "appId": "ca-app-pub-3013597232773240~3068513908",
             "banner": "ca-app-pub-3013597232773240/2876942217",
